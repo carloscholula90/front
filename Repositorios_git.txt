@@ -1,0 +1,12 @@
+Repositorio de API REST
+https://github.com/carloscholula90/apirest.git
+
+
+Repositorio de Graphql
+https://github.com/carloscholula90/graphql.git
+
+Subdominios
+https://api.siaweb.com.mx/
+
+Ruta del hosting
+/home1/api.siaweb.com.mx/

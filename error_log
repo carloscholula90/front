@@ -1,0 +1,8 @@
+[21-Sep-2024 02:50:12 America/Mexico_City] PHP Warning:  Undefined array key "pasw" in /home1/magentad/siaweb.com.mx/validar.php on line 7
+[21-Sep-2024 02:50:12 America/Mexico_City] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/magentad/siaweb.com.mx/validar.php on line 7
+[21-Sep-2024 02:50:32 America/Mexico_City] PHP Warning:  Undefined array key "pasw" in /home1/magentad/siaweb.com.mx/validar.php on line 7
+[21-Sep-2024 02:50:32 America/Mexico_City] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/magentad/siaweb.com.mx/validar.php on line 7
+[21-Sep-2024 02:51:18 America/Mexico_City] PHP Warning:  Undefined array key "pasw" in /home1/magentad/siaweb.com.mx/validar.php on line 7
+[21-Sep-2024 02:51:18 America/Mexico_City] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/magentad/siaweb.com.mx/validar.php on line 7
+[21-Sep-2024 02:51:23 America/Mexico_City] PHP Warning:  Undefined array key "pasw" in /home1/magentad/siaweb.com.mx/validar.php on line 7
+[21-Sep-2024 02:51:23 America/Mexico_City] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/magentad/siaweb.com.mx/validar.php on line 7
