@@ -1,0 +1,221 @@
+[07-Nov-2024 19:49:50 America/Mexico_City] PHP Warning:  Undefined array key "p" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 2
+[07-Nov-2024 19:50:08 America/Mexico_City] PHP Warning:  Undefined array key "p" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:50:13 America/Mexico_City] PHP Warning:  Undefined array key "p" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:50:15 America/Mexico_City] PHP Warning:  Undefined array key "p" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:51:26 America/Mexico_City] PHP Warning:  Undefined array key "p" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:51:30 America/Mexico_City] PHP Warning:  Undefined array key "p" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:51:33 America/Mexico_City] PHP Warning:  Undefined array key "p" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:52:25 America/Mexico_City] PHP Warning:  include(modulosphp): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:52:25 America/Mexico_City] PHP Warning:  include(): Failed opening 'modulosphp' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:52:27 America/Mexico_City] PHP Warning:  include(modulosphp): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:52:27 America/Mexico_City] PHP Warning:  include(): Failed opening 'modulosphp' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:52:48 America/Mexico_City] PHP Warning:  include(/modulosphp): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:52:48 America/Mexico_City] PHP Warning:  include(): Failed opening '/modulosphp' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:52:49 America/Mexico_City] PHP Warning:  include(/modulosphp): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:52:49 America/Mexico_City] PHP Warning:  include(): Failed opening '/modulosphp' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:53:16 America/Mexico_City] PHP Warning:  include(/modulosphp): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:53:16 America/Mexico_City] PHP Warning:  include(): Failed opening '/modulosphp' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:54:25 America/Mexico_City] PHP Warning:  Undefined array key "seccion" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 2
+[07-Nov-2024 19:54:25 America/Mexico_City] PHP Warning:  include(/php): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:54:25 America/Mexico_City] PHP Warning:  include(): Failed opening '/php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:54:48 America/Mexico_City] PHP Warning:  Undefined array key "seccion" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 3
+[07-Nov-2024 19:54:48 America/Mexico_City] PHP Warning:  include(/php): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 4
+[07-Nov-2024 19:54:48 America/Mexico_City] PHP Warning:  include(): Failed opening '/php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 4
+[07-Nov-2024 19:55:36 America/Mexico_City] PHP Warning:  include(/modulosphp): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 4
+[07-Nov-2024 19:55:36 America/Mexico_City] PHP Warning:  include(): Failed opening '/modulosphp' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 4
+[07-Nov-2024 19:58:02 America/Mexico_City] PHP Warning:  include(/modulosphp): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 4
+[07-Nov-2024 19:58:02 America/Mexico_City] PHP Warning:  include(): Failed opening '/modulosphp' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 4
+[07-Nov-2024 19:59:11 America/Mexico_City] PHP Warning:  include(modulosphp): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 4
+[07-Nov-2024 19:59:11 America/Mexico_City] PHP Warning:  include(): Failed opening 'modulosphp' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 4
+[07-Nov-2024 20:02:47 America/Mexico_City] PHP Warning:  include(modulosphp): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 4
+[07-Nov-2024 20:02:47 America/Mexico_City] PHP Warning:  include(): Failed opening 'modulosphp' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 4
+[07-Nov-2024 20:05:03 America/Mexico_City] PHP Warning:  include(../modulosphp): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 5
+[07-Nov-2024 20:05:03 America/Mexico_City] PHP Warning:  include(): Failed opening '../modulosphp' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 5
+[07-Nov-2024 20:05:52 America/Mexico_City] PHP Warning:  include(/modulosphp): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 5
+[07-Nov-2024 20:05:52 America/Mexico_City] PHP Warning:  include(): Failed opening '/modulosphp' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 5
+[07-Nov-2024 20:06:18 America/Mexico_City] PHP Warning:  include(//home1/magentad/siaweb.com.mx/secciones/modulos.phpphp): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 5
+[07-Nov-2024 20:06:18 America/Mexico_City] PHP Warning:  include(): Failed opening '//home1/magentad/siaweb.com.mx/secciones/modulos.phpphp' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 5
+[07-Nov-2024 20:09:16 America/Mexico_City] PHP Warning:  include(/home1/magentad/siaweb.com.mx/secciones/modulos.phpphp): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 5
+[07-Nov-2024 20:09:16 America/Mexico_City] PHP Warning:  include(): Failed opening '/home1/magentad/siaweb.com.mx/secciones/modulos.phpphp' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 5
+[07-Nov-2024 20:09:41 America/Mexico_City] PHP Warning:  include(/home1/magentad/siaweb.com.mx/secciones/modulos.phpphp): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 5
+[07-Nov-2024 20:09:41 America/Mexico_City] PHP Warning:  include(): Failed opening '/home1/magentad/siaweb.com.mx/secciones/modulos.phpphp' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 5
+[18-Nov-2024 10:48:51 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "print_r" in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 4
+[18-Nov-2024 10:50:22 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "print_r" in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 4
+[18-Nov-2024 10:50:36 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "print_r" in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 4
+[18-Nov-2024 10:52:23 America/Mexico_City] PHP Warning:  file_get_contents(regions.json): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 10
+[18-Nov-2024 10:52:23 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "print_r" in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 4
+[18-Nov-2024 10:53:21 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "print_r" in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 4
+[18-Nov-2024 10:53:30 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "print_r" in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 4
+[18-Nov-2024 10:54:22 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "print_r" in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 5
+[18-Nov-2024 10:54:23 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "print_r" in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 5
+[18-Nov-2024 10:55:57 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "print_r" in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 5
+[18-Nov-2024 10:56:52 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "print_r" in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 5
+[18-Nov-2024 10:57:10 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$ndpoint in /home1/magentad/siaweb.com.mx/secciones/crud/get.php on line 3
+[18-Nov-2024 10:57:37 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$ndpoint in /home1/magentad/siaweb.com.mx/secciones/crud/get.php on line 3
+[18-Nov-2024 11:05:38 America/Mexico_City] PHP Warning:  Attempt to read property "idModulo" on array in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 18
+[18-Nov-2024 11:05:38 America/Mexico_City] PHP Warning:  Attempt to read property "descripcion" on array in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 19
+[18-Nov-2024 11:05:38 America/Mexico_City] PHP Warning:  Attempt to read property "icono" on array in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 20
+[18-Nov-2024 11:05:38 America/Mexico_City] PHP Warning:  Attempt to read property "alias" on array in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 21
+[18-Nov-2024 11:05:38 America/Mexico_City] PHP Warning:  Attempt to read property "idModulo" on int in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 18
+[18-Nov-2024 11:05:38 America/Mexico_City] PHP Warning:  Attempt to read property "descripcion" on int in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 19
+[18-Nov-2024 11:05:38 America/Mexico_City] PHP Warning:  Attempt to read property "icono" on int in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 20
+[18-Nov-2024 11:05:38 America/Mexico_City] PHP Warning:  Attempt to read property "alias" on int in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 21
+[18-Nov-2024 11:06:01 America/Mexico_City] PHP Warning:  Attempt to read property "idModulo" on array in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 18
+[18-Nov-2024 11:06:01 America/Mexico_City] PHP Warning:  Attempt to read property "descripcion" on array in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 19
+[18-Nov-2024 11:06:01 America/Mexico_City] PHP Warning:  Attempt to read property "icono" on array in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 20
+[18-Nov-2024 11:06:01 America/Mexico_City] PHP Warning:  Attempt to read property "alias" on array in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 21
+[18-Nov-2024 11:06:01 America/Mexico_City] PHP Warning:  Attempt to read property "idModulo" on int in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 18
+[18-Nov-2024 11:06:01 America/Mexico_City] PHP Warning:  Attempt to read property "descripcion" on int in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 19
+[18-Nov-2024 11:06:01 America/Mexico_City] PHP Warning:  Attempt to read property "icono" on int in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 20
+[18-Nov-2024 11:06:01 America/Mexico_City] PHP Warning:  Attempt to read property "alias" on int in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 21
+[18-Nov-2024 11:06:18 America/Mexico_City] PHP Warning:  Attempt to read property "idModulo" on array in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 18
+[18-Nov-2024 11:06:18 America/Mexico_City] PHP Warning:  Attempt to read property "descripcion" on array in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 19
+[18-Nov-2024 11:06:18 America/Mexico_City] PHP Warning:  Attempt to read property "icono" on array in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 20
+[18-Nov-2024 11:06:18 America/Mexico_City] PHP Warning:  Attempt to read property "alias" on array in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 21
+[18-Nov-2024 11:06:18 America/Mexico_City] PHP Warning:  Attempt to read property "idModulo" on int in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 18
+[18-Nov-2024 11:06:18 America/Mexico_City] PHP Warning:  Attempt to read property "descripcion" on int in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 19
+[18-Nov-2024 11:06:18 America/Mexico_City] PHP Warning:  Attempt to read property "icono" on int in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 20
+[18-Nov-2024 11:06:18 America/Mexico_City] PHP Warning:  Attempt to read property "alias" on int in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 21
+[18-Nov-2024 11:07:02 America/Mexico_City] PHP Warning:  Attempt to read property "idModulo" on array in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 18
+[18-Nov-2024 11:07:02 America/Mexico_City] PHP Warning:  Attempt to read property "descripcion" on array in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 19
+[18-Nov-2024 11:07:02 America/Mexico_City] PHP Warning:  Attempt to read property "icono" on array in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 20
+[18-Nov-2024 11:07:02 America/Mexico_City] PHP Warning:  Attempt to read property "alias" on array in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 21
+[18-Nov-2024 11:07:02 America/Mexico_City] PHP Warning:  Attempt to read property "idModulo" on int in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 18
+[18-Nov-2024 11:07:02 America/Mexico_City] PHP Warning:  Attempt to read property "descripcion" on int in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 19
+[18-Nov-2024 11:07:02 America/Mexico_City] PHP Warning:  Attempt to read property "icono" on int in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 20
+[18-Nov-2024 11:07:02 America/Mexico_City] PHP Warning:  Attempt to read property "alias" on int in /home1/magentad/siaweb.com.mx/secciones/modulos.php on line 21
+[18-Nov-2024 11:11:40 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$aplicaciones in /home1/magentad/siaweb.com.mx/secciones/aplicaciones.php on line 16
+[18-Nov-2024 11:11:40 America/Mexico_City] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/magentad/siaweb.com.mx/secciones/aplicaciones.php on line 16
+[18-Nov-2024 11:22:15 America/Mexico_City] PHP Warning:  Attempt to read property "aplicacion" on null in /home1/magentad/siaweb.com.mx/secciones/aplicaciones.php on line 16
+[18-Nov-2024 11:22:15 America/Mexico_City] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/magentad/siaweb.com.mx/secciones/aplicaciones.php on line 16
+[18-Nov-2024 11:22:18 America/Mexico_City] PHP Warning:  Attempt to read property "aplicacion" on null in /home1/magentad/siaweb.com.mx/secciones/aplicaciones.php on line 16
+[18-Nov-2024 11:22:18 America/Mexico_City] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/magentad/siaweb.com.mx/secciones/aplicaciones.php on line 16
+[19-Nov-2024 10:29:19 America/Mexico_City] PHP Warning:  Undefined array key "REDIRECT_URL" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 10
+[19-Nov-2024 10:29:19 America/Mexico_City] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home1/magentad/siaweb.com.mx/secciones/index.php on line 11
+[19-Nov-2024 10:29:19 America/Mexico_City] PHP Warning:  Undefined array key 2 in /home1/magentad/siaweb.com.mx/secciones/index.php on line 12
+[19-Nov-2024 10:29:19 America/Mexico_City] PHP Warning:  file_get_contents(/home1/magentad/siaweb.com.mx/secciones/config/.json): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 14
+[19-Nov-2024 10:29:19 America/Mexico_City] PHP Warning:  Undefined array key "REDIRECT_URL" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 17
+[19-Nov-2024 10:29:19 America/Mexico_City] PHP Warning:  include(/home1/magentad/siaweb.com.mx.php): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 48
+[19-Nov-2024 10:29:19 America/Mexico_City] PHP Warning:  include(): Failed opening '/home1/magentad/siaweb.com.mx.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 48
+[19-Nov-2024 10:56:18 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/magentad/siaweb.com.mx/secciones/index.php on line 172
+[19-Nov-2024 10:56:18 America/Mexico_City] PHP Warning:  Undefined global variable $_SESSION in /home1/magentad/siaweb.com.mx/secciones/index.php on line 173
+[19-Nov-2024 10:56:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home1/magentad/siaweb.com.mx/secciones/index.php on line 173
+[19-Nov-2024 10:56:18 America/Mexico_City] PHP Warning:  Undefined global variable $_SESSION in /home1/magentad/siaweb.com.mx/secciones/index.php on line 176
+[19-Nov-2024 10:56:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home1/magentad/siaweb.com.mx/secciones/index.php on line 176
+[19-Nov-2024 10:57:29 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/magentad/siaweb.com.mx/secciones/index.php on line 172
+[19-Nov-2024 10:57:29 America/Mexico_City] PHP Warning:  Undefined global variable $_SESSION in /home1/magentad/siaweb.com.mx/secciones/index.php on line 173
+[19-Nov-2024 10:57:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home1/magentad/siaweb.com.mx/secciones/index.php on line 173
+[19-Nov-2024 10:57:29 America/Mexico_City] PHP Warning:  Undefined global variable $_SESSION in /home1/magentad/siaweb.com.mx/secciones/index.php on line 176
+[19-Nov-2024 10:57:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home1/magentad/siaweb.com.mx/secciones/index.php on line 176
+[19-Nov-2024 10:58:40 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/magentad/siaweb.com.mx/secciones/index.php on line 172
+[19-Nov-2024 10:58:40 America/Mexico_City] PHP Warning:  Undefined global variable $_SESSION in /home1/magentad/siaweb.com.mx/secciones/index.php on line 173
+[19-Nov-2024 10:58:40 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home1/magentad/siaweb.com.mx/secciones/index.php on line 173
+[19-Nov-2024 10:58:40 America/Mexico_City] PHP Warning:  Undefined global variable $_SESSION in /home1/magentad/siaweb.com.mx/secciones/index.php on line 176
+[19-Nov-2024 10:58:40 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home1/magentad/siaweb.com.mx/secciones/index.php on line 176
+[19-Nov-2024 10:58:54 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/magentad/siaweb.com.mx/secciones/index.php on line 172
+[19-Nov-2024 10:58:54 America/Mexico_City] PHP Warning:  Undefined global variable $_SESSION in /home1/magentad/siaweb.com.mx/secciones/index.php on line 173
+[19-Nov-2024 10:58:54 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home1/magentad/siaweb.com.mx/secciones/index.php on line 173
+[19-Nov-2024 10:58:54 America/Mexico_City] PHP Warning:  Undefined global variable $_SESSION in /home1/magentad/siaweb.com.mx/secciones/index.php on line 176
+[19-Nov-2024 10:58:54 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home1/magentad/siaweb.com.mx/secciones/index.php on line 176
+[19-Nov-2024 11:01:46 America/Mexico_City] PHP Warning:  Undefined global variable $_SESSION in /home1/magentad/siaweb.com.mx/secciones/index.php on line 172
+[19-Nov-2024 11:01:46 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home1/magentad/siaweb.com.mx/secciones/index.php on line 172
+[19-Nov-2024 11:01:46 America/Mexico_City] PHP Warning:  Undefined global variable $_SESSION in /home1/magentad/siaweb.com.mx/secciones/index.php on line 175
+[19-Nov-2024 11:01:46 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home1/magentad/siaweb.com.mx/secciones/index.php on line 175
+[19-Nov-2024 11:09:18 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$titulo in /home1/magentad/siaweb.com.mx/secciones/index.php on line 115
+[19-Nov-2024 11:09:18 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$titulo in /home1/magentad/siaweb.com.mx/secciones/index.php on line 208
+[19-Nov-2024 11:09:18 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$descripcion in /home1/magentad/siaweb.com.mx/secciones/index.php on line 235
+[19-Nov-2024 12:11:04 America/Mexico_City] PHP Warning:  Undefined array key "id" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 220
+[19-Nov-2024 12:11:04 America/Mexico_City] PHP Warning:  Undefined array key "id" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 223
+[19-Nov-2024 12:11:04 America/Mexico_City] PHP Warning:  include(/home1/magentad/siaweb.com.mx/secciones/rol.php): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 284
+[19-Nov-2024 12:11:04 America/Mexico_City] PHP Warning:  include(): Failed opening '/home1/magentad/siaweb.com.mx/secciones/rol.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 284
+[19-Nov-2024 12:11:09 America/Mexico_City] PHP Warning:  Undefined array key "id" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 220
+[19-Nov-2024 12:11:09 America/Mexico_City] PHP Warning:  Undefined array key "id" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 223
+[19-Nov-2024 12:11:29 America/Mexico_City] PHP Warning:  include(/home1/magentad/siaweb.com.mx/secciones/rol.php): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 284
+[19-Nov-2024 12:11:29 America/Mexico_City] PHP Warning:  include(): Failed opening '/home1/magentad/siaweb.com.mx/secciones/rol.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 284
+[19-Nov-2024 12:11:54 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$modulos in /home1/magentad/siaweb.com.mx/secciones/rol.php on line 19
+[19-Nov-2024 12:11:54 America/Mexico_City] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/magentad/siaweb.com.mx/secciones/rol.php on line 19
+[19-Nov-2024 12:17:21 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$descripcion in /home1/magentad/siaweb.com.mx/secciones/permisorol.php on line 24
+[19-Nov-2024 12:17:21 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$descripcion in /home1/magentad/siaweb.com.mx/secciones/permisorol.php on line 28
+[19-Nov-2024 12:17:21 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$descripcion in /home1/magentad/siaweb.com.mx/secciones/permisorol.php on line 24
+[19-Nov-2024 12:17:21 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$descripcion in /home1/magentad/siaweb.com.mx/secciones/permisorol.php on line 28
+[19-Nov-2024 12:30:28 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/modalidades.php on line 21
+[19-Nov-2024 12:30:28 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/modalidades.php on line 24
+[19-Nov-2024 12:30:28 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/modalidades.php on line 24
+[19-Nov-2024 12:30:28 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/modalidades.php on line 25
+[19-Nov-2024 12:30:28 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/modalidades.php on line 25
+[19-Nov-2024 12:30:28 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/modalidades.php on line 21
+[19-Nov-2024 12:30:28 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/modalidades.php on line 24
+[19-Nov-2024 12:30:28 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/modalidades.php on line 24
+[19-Nov-2024 12:30:28 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/modalidades.php on line 25
+[19-Nov-2024 12:30:28 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/modalidades.php on line 25
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 21
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 24
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 24
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 25
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 25
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 21
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 24
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 24
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 25
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 25
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 21
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 24
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 24
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 25
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 25
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 21
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 24
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 24
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 25
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 25
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 21
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 24
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 24
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 25
+[19-Nov-2024 12:53:14 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idEdoCivil in /home1/magentad/siaweb.com.mx/secciones/parentesco.php on line 25
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 21
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 24
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 24
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 25
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 25
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 21
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 24
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 24
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 25
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 25
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 21
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 24
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 24
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 25
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 25
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 21
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 24
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 24
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 25
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 25
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 21
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 24
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 24
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 25
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 25
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 21
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 24
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 24
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 25
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 25
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 21
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 24
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 24
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 25
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 25
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 21
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 24
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 24
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 25
+[19-Nov-2024 12:53:15 America/Mexico_City] PHP Warning:  Undefined property: stdClass::$idModulo in /home1/magentad/siaweb.com.mx/secciones/edocivil.php on line 25
+[19-Nov-2024 12:53:17 America/Mexico_City] PHP Warning:  include(/home1/magentad/siaweb.com.mx/secciones/asentamientos.php): Failed to open stream: No such file or directory in /home1/magentad/siaweb.com.mx/secciones/index.php on line 427
+[19-Nov-2024 12:53:17 America/Mexico_City] PHP Warning:  include(): Failed opening '/home1/magentad/siaweb.com.mx/secciones/asentamientos.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/magentad/siaweb.com.mx/secciones/index.php on line 427
+[19-Nov-2024 19:44:17 America/Mexico_City] PHP Warning:  Undefined array key "id" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 363
+[19-Nov-2024 19:44:17 America/Mexico_City] PHP Warning:  Undefined array key "id" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 366
+[19-Nov-2024 20:58:13 America/Mexico_City] PHP Warning:  Undefined array key "id" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 363
+[19-Nov-2024 20:58:13 America/Mexico_City] PHP Warning:  Undefined array key "id" in /home1/magentad/siaweb.com.mx/secciones/index.php on line 366

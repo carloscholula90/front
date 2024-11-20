@@ -1,0 +1,24 @@
+[18-Nov-2024 22:55:07 America/Mexico_City] PHP Warning:  Undefined variable $config in /home1/magentad/siaweb.com.mx/secciones/crud/post.php on line 9
+[18-Nov-2024 22:55:07 America/Mexico_City] PHP Warning:  Attempt to read property "endpoint" on null in /home1/magentad/siaweb.com.mx/secciones/crud/post.php on line 9
+[18-Nov-2024 23:04:10 America/Mexico_City] PHP Warning:  Undefined variable $data in /home1/magentad/siaweb.com.mx/secciones/crud/post.php on line 24
+[18-Nov-2024 23:04:10 America/Mexico_City] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home1/magentad/siaweb.com.mx/secciones/crud/post.php on line 24
+[18-Nov-2024 23:04:10 America/Mexico_City] PHP Warning:  Attempt to read property "status" on null in /home1/magentad/siaweb.com.mx/secciones/crud/post.php on line 26
+[18-Nov-2024 23:16:32 America/Mexico_City] PHP Warning:  Attempt to read property "status" on null in /home1/magentad/siaweb.com.mx/secciones/crud/post.php on line 27
+[18-Nov-2024 23:40:26 America/Mexico_City] PHP Parse error:  syntax error, unexpected variable "$id", expecting ")" in /home1/magentad/siaweb.com.mx/secciones/crud/put.php on line 12
+[18-Nov-2024 23:40:48 America/Mexico_City] PHP Parse error:  syntax error, unexpected variable "$id", expecting ")" in /home1/magentad/siaweb.com.mx/secciones/crud/put.php on line 12
+[18-Nov-2024 23:41:36 America/Mexico_City] PHP Parse error:  syntax error, unexpected variable "$id", expecting ")" in /home1/magentad/siaweb.com.mx/secciones/crud/put.php on line 12
+[18-Nov-2024 23:41:44 America/Mexico_City] PHP Parse error:  syntax error, unexpected variable "$id", expecting ")" in /home1/magentad/siaweb.com.mx/secciones/crud/put.php on line 12
+[18-Nov-2024 23:42:25 America/Mexico_City] PHP Parse error:  syntax error, unexpected variable "$id", expecting ")" in /home1/magentad/siaweb.com.mx/secciones/crud/put.php on line 12
+[18-Nov-2024 23:42:31 America/Mexico_City] PHP Parse error:  syntax error, unexpected variable "$id", expecting ")" in /home1/magentad/siaweb.com.mx/secciones/crud/put.php on line 12
+[18-Nov-2024 23:44:26 America/Mexico_City] PHP Parse error:  syntax error, unexpected variable "$id", expecting ")" in /home1/magentad/siaweb.com.mx/secciones/crud/put.php on line 12
+[19-Nov-2024 00:02:30 America/Mexico_City] PHP Warning:  Undefined variable $json in /home1/magentad/siaweb.com.mx/secciones/crud/delete.php on line 19
+[19-Nov-2024 10:19:46 America/Mexico_City] PHP Warning:  Attempt to read property "status" on null in /home1/magentad/siaweb.com.mx/secciones/crud/put.php on line 28
+[19-Nov-2024 10:19:56 America/Mexico_City] PHP Warning:  Attempt to read property "status" on null in /home1/magentad/siaweb.com.mx/secciones/crud/put.php on line 28
+[19-Nov-2024 10:20:49 America/Mexico_City] PHP Warning:  Attempt to read property "status" on null in /home1/magentad/siaweb.com.mx/secciones/crud/put.php on line 28
+[19-Nov-2024 10:21:13 America/Mexico_City] PHP Warning:  Attempt to read property "status" on null in /home1/magentad/siaweb.com.mx/secciones/crud/put.php on line 28
+[19-Nov-2024 10:21:48 America/Mexico_City] PHP Warning:  Attempt to read property "status" on null in /home1/magentad/siaweb.com.mx/secciones/crud/put.php on line 28
+[19-Nov-2024 10:24:07 America/Mexico_City] PHP Warning:  Attempt to read property "status" on null in /home1/magentad/siaweb.com.mx/secciones/crud/put.php on line 28
+[19-Nov-2024 10:25:49 America/Mexico_City] PHP Warning:  Attempt to read property "status" on null in /home1/magentad/siaweb.com.mx/secciones/crud/put.php on line 28
+[19-Nov-2024 10:26:21 America/Mexico_City] PHP Warning:  Attempt to read property "status" on null in /home1/magentad/siaweb.com.mx/secciones/crud/put.php on line 28
+[19-Nov-2024 10:26:22 America/Mexico_City] PHP Warning:  Attempt to read property "status" on null in /home1/magentad/siaweb.com.mx/secciones/crud/put.php on line 28
+[19-Nov-2024 10:27:08 America/Mexico_City] PHP Warning:  Attempt to read property "status" on null in /home1/magentad/siaweb.com.mx/secciones/crud/put.php on line 28
